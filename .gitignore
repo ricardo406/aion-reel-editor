@@ -1,0 +1,12 @@
+# Dependencias (se regeneran con: npm install)
+node_modules/
+
+# Artefactos por reel (se generan al correr el pipeline)
+out/
+audio_16k.wav
+transcript.json
+public/source*.mp4
+public/broll/
+refs/
+*.err
+*.log

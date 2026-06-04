@@ -1,0 +1,1988 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "source": "source.mp4",
+  "durationInFrames": 2476,
+  "segments": [
+    {
+      "fromFrame": 0,
+      "durationInFrames": 185,
+      "trimBefore": 15
+    },
+    {
+      "fromFrame": 185,
+      "durationInFrames": 321,
+      "trimBefore": 240
+    },
+    {
+      "fromFrame": 506,
+      "durationInFrames": 43,
+      "trimBefore": 610
+    },
+    {
+      "fromFrame": 549,
+      "durationInFrames": 85,
+      "trimBefore": 670
+    },
+    {
+      "fromFrame": 634,
+      "durationInFrames": 271,
+      "trimBefore": 819
+    },
+    {
+      "fromFrame": 905,
+      "durationInFrames": 677,
+      "trimBefore": 1155
+    },
+    {
+      "fromFrame": 1582,
+      "durationInFrames": 317,
+      "trimBefore": 1898
+    },
+    {
+      "fromFrame": 1899,
+      "durationInFrames": 341,
+      "trimBefore": 2232
+    },
+    {
+      "fromFrame": 2240,
+      "durationInFrames": 235,
+      "trimBefore": 2591
+    }
+  ],
+  "captionPages": [
+    {
+      "startFrame": 15,
+      "endFrame": 56,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Utilizar",
+          "startFrame": 15,
+          "endFrame": 36
+        },
+        {
+          "text": "inteligencia",
+          "startFrame": 36,
+          "endFrame": 49
+        },
+        {
+          "text": "artificial",
+          "startFrame": 49,
+          "endFrame": 56
+        }
+      ]
+    },
+    {
+      "startFrame": 56,
+      "endFrame": 93,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "es",
+          "startFrame": 56,
+          "endFrame": 64
+        },
+        {
+          "text": "exactamente",
+          "startFrame": 64,
+          "endFrame": 77
+        },
+        {
+          "text": "igual",
+          "startFrame": 77,
+          "endFrame": 93
+        }
+      ]
+    },
+    {
+      "startFrame": 93,
+      "endFrame": 108,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "a",
+          "startFrame": 93,
+          "endFrame": 98
+        },
+        {
+          "text": "jugar",
+          "startFrame": 98,
+          "endFrame": 103
+        },
+        {
+          "text": "a",
+          "startFrame": 103,
+          "endFrame": 108
+        }
+      ]
+    },
+    {
+      "startFrame": 108,
+      "endFrame": 126,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "ajedrez",
+          "startFrame": 108,
+          "endFrame": 119
+        }
+      ]
+    },
+    {
+      "startFrame": 126,
+      "endFrame": 152,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "No",
+          "startFrame": 121,
+          "endFrame": 128
+        },
+        {
+          "text": "puedes",
+          "startFrame": 128,
+          "endFrame": 139
+        },
+        {
+          "text": "utilizar",
+          "startFrame": 139,
+          "endFrame": 152
+        }
+      ]
+    },
+    {
+      "startFrame": 152,
+      "endFrame": 161,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "a",
+          "startFrame": 152,
+          "endFrame": 158
+        },
+        {
+          "text": "tu",
+          "startFrame": 158,
+          "endFrame": 161
+        }
+      ]
+    },
+    {
+      "startFrame": 161,
+      "endFrame": 179,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "reina",
+          "startFrame": 161,
+          "endFrame": 171
+        }
+      ]
+    },
+    {
+      "startFrame": 179,
+      "endFrame": 188,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "como",
+          "startFrame": 171,
+          "endFrame": 178
+        },
+        {
+          "text": "si",
+          "startFrame": 178,
+          "endFrame": 182
+        },
+        {
+          "text": "fuera",
+          "startFrame": 182,
+          "endFrame": 188
+        }
+      ]
+    },
+    {
+      "startFrame": 188,
+      "endFrame": 200,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "un",
+          "startFrame": 188,
+          "endFrame": 193
+        },
+        {
+          "text": "peón.",
+          "startFrame": 193,
+          "endFrame": 199
+        }
+      ]
+    },
+    {
+      "startFrame": 200,
+      "endFrame": 223,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Tienes",
+          "startFrame": 200,
+          "endFrame": 214
+        },
+        {
+          "text": "que",
+          "startFrame": 214,
+          "endFrame": 217
+        },
+        {
+          "text": "entender",
+          "startFrame": 217,
+          "endFrame": 223
+        }
+      ]
+    },
+    {
+      "startFrame": 223,
+      "endFrame": 245,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "que",
+          "startFrame": 223,
+          "endFrame": 230
+        },
+        {
+          "text": "cada",
+          "startFrame": 230,
+          "endFrame": 236
+        },
+        {
+          "text": "una",
+          "startFrame": 236,
+          "endFrame": 245
+        }
+      ]
+    },
+    {
+      "startFrame": 245,
+      "endFrame": 264,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 245,
+          "endFrame": 248
+        },
+        {
+          "text": "las",
+          "startFrame": 248,
+          "endFrame": 251
+        },
+        {
+          "text": "compañías",
+          "startFrame": 251,
+          "endFrame": 264
+        }
+      ]
+    },
+    {
+      "startFrame": 264,
+      "endFrame": 288,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tiene",
+          "startFrame": 264,
+          "endFrame": 269
+        },
+        {
+          "text": "modelos",
+          "startFrame": 269,
+          "endFrame": 281
+        },
+        {
+          "text": "distintos",
+          "startFrame": 281,
+          "endFrame": 288
+        }
+      ]
+    },
+    {
+      "startFrame": 288,
+      "endFrame": 305,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "y",
+          "startFrame": 288,
+          "endFrame": 298
+        },
+        {
+          "text": "hay",
+          "startFrame": 298,
+          "endFrame": 300
+        },
+        {
+          "text": "unos",
+          "startFrame": 300,
+          "endFrame": 305
+        }
+      ]
+    },
+    {
+      "startFrame": 305,
+      "endFrame": 320,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "que",
+          "startFrame": 305,
+          "endFrame": 308
+        },
+        {
+          "text": "son",
+          "startFrame": 308,
+          "endFrame": 313
+        },
+        {
+          "text": "mucho",
+          "startFrame": 313,
+          "endFrame": 320
+        }
+      ]
+    },
+    {
+      "startFrame": 320,
+      "endFrame": 344,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "más",
+          "startFrame": 320,
+          "endFrame": 326
+        },
+        {
+          "text": "poderosos",
+          "startFrame": 326,
+          "endFrame": 338
+        },
+        {
+          "text": "que",
+          "startFrame": 338,
+          "endFrame": 344
+        }
+      ]
+    },
+    {
+      "startFrame": 344,
+      "endFrame": 354,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "otros.",
+          "startFrame": 344,
+          "endFrame": 350
+        }
+      ]
+    },
+    {
+      "startFrame": 354,
+      "endFrame": 375,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Entonces,",
+          "startFrame": 354,
+          "endFrame": 364
+        },
+        {
+          "text": "no",
+          "startFrame": 364,
+          "endFrame": 369
+        },
+        {
+          "text": "quieres",
+          "startFrame": 369,
+          "endFrame": 375
+        }
+      ]
+    },
+    {
+      "startFrame": 375,
+      "endFrame": 416,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "utilizar",
+          "startFrame": 375,
+          "endFrame": 388
+        },
+        {
+          "text": "a",
+          "startFrame": 388,
+          "endFrame": 410
+        },
+        {
+          "text": "tu",
+          "startFrame": 410,
+          "endFrame": 416
+        }
+      ]
+    },
+    {
+      "startFrame": 416,
+      "endFrame": 434,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "reina",
+          "startFrame": 416,
+          "endFrame": 425
+        },
+        {
+          "text": "por",
+          "startFrame": 425,
+          "endFrame": 431
+        },
+        {
+          "text": "un",
+          "startFrame": 431,
+          "endFrame": 434
+        }
+      ]
+    },
+    {
+      "startFrame": 434,
+      "endFrame": 457,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "trabajo",
+          "startFrame": 434,
+          "endFrame": 443
+        },
+        {
+          "text": "que",
+          "startFrame": 443,
+          "endFrame": 451
+        },
+        {
+          "text": "pueda",
+          "startFrame": 451,
+          "endFrame": 457
+        }
+      ]
+    },
+    {
+      "startFrame": 457,
+      "endFrame": 483,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "ser",
+          "startFrame": 457,
+          "endFrame": 463
+        },
+        {
+          "text": "un",
+          "startFrame": 463,
+          "endFrame": 474
+        },
+        {
+          "text": "peón",
+          "startFrame": 474,
+          "endFrame": 483
+        }
+      ]
+    },
+    {
+      "startFrame": 483,
+      "endFrame": 505,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 483,
+          "endFrame": 487
+        },
+        {
+          "text": "manera",
+          "startFrame": 487,
+          "endFrame": 491
+        },
+        {
+          "text": "súper",
+          "startFrame": 491,
+          "endFrame": 505
+        }
+      ]
+    },
+    {
+      "startFrame": 505,
+      "endFrame": 521,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "sencilla.",
+          "startFrame": 505,
+          "endFrame": 520
+        }
+      ]
+    },
+    {
+      "startFrame": 521,
+      "endFrame": 541,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "¿A",
+          "startFrame": 521,
+          "endFrame": 535
+        },
+        {
+          "text": "qué",
+          "startFrame": 535,
+          "endFrame": 537
+        },
+        {
+          "text": "me",
+          "startFrame": 537,
+          "endFrame": 541
+        }
+      ]
+    },
+    {
+      "startFrame": 541,
+      "endFrame": 564,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "refiero",
+          "startFrame": 541,
+          "endFrame": 549
+        },
+        {
+          "text": "con",
+          "startFrame": 549,
+          "endFrame": 553
+        },
+        {
+          "text": "esto?",
+          "startFrame": 553,
+          "endFrame": 562
+        }
+      ]
+    },
+    {
+      "startFrame": 564,
+      "endFrame": 595,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Enviar",
+          "startFrame": 564,
+          "endFrame": 578
+        },
+        {
+          "text": "un",
+          "startFrame": 578,
+          "endFrame": 581
+        },
+        {
+          "text": "email,",
+          "startFrame": 581,
+          "endFrame": 587
+        }
+      ]
+    },
+    {
+      "startFrame": 595,
+      "endFrame": 626,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "darte",
+          "startFrame": 595,
+          "endFrame": 606
+        },
+        {
+          "text": "un",
+          "startFrame": 606,
+          "endFrame": 611
+        },
+        {
+          "text": "texto,",
+          "startFrame": 611,
+          "endFrame": 619
+        }
+      ]
+    },
+    {
+      "startFrame": 626,
+      "endFrame": 649,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "peón",
+          "startFrame": 626,
+          "endFrame": 648
+        }
+      ]
+    },
+    {
+      "startFrame": 649,
+      "endFrame": 673,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Crear",
+          "startFrame": 649,
+          "endFrame": 664
+        },
+        {
+          "text": "un",
+          "startFrame": 664,
+          "endFrame": 667
+        },
+        {
+          "text": "sistema",
+          "startFrame": 667,
+          "endFrame": 673
+        }
+      ]
+    },
+    {
+      "startFrame": 673,
+      "endFrame": 716,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "operativo",
+          "startFrame": 673,
+          "endFrame": 686
+        },
+        {
+          "text": "completo",
+          "startFrame": 686,
+          "endFrame": 697
+        },
+        {
+          "text": "que",
+          "startFrame": 697,
+          "endFrame": 716
+        }
+      ]
+    },
+    {
+      "startFrame": 716,
+      "endFrame": 740,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "pueda",
+          "startFrame": 716,
+          "endFrame": 725
+        },
+        {
+          "text": "entender,",
+          "startFrame": 725,
+          "endFrame": 736
+        }
+      ]
+    },
+    {
+      "startFrame": 740,
+      "endFrame": 782,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "almacenar",
+          "startFrame": 740,
+          "endFrame": 761
+        },
+        {
+          "text": "información,",
+          "startFrame": 761,
+          "endFrame": 769
+        }
+      ]
+    },
+    {
+      "startFrame": 782,
+      "endFrame": 814,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "necesite",
+          "startFrame": 782,
+          "endFrame": 797
+        },
+        {
+          "text": "codificación,",
+          "startFrame": 797,
+          "endFrame": 814
+        }
+      ]
+    },
+    {
+      "startFrame": 814,
+      "endFrame": 851,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "un",
+          "startFrame": 814,
+          "endFrame": 827
+        },
+        {
+          "text": "backend",
+          "startFrame": 827,
+          "endFrame": 841
+        },
+        {
+          "text": "y",
+          "startFrame": 841,
+          "endFrame": 851
+        }
+      ]
+    },
+    {
+      "startFrame": 851,
+      "endFrame": 890,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tenga",
+          "startFrame": 851,
+          "endFrame": 860
+        },
+        {
+          "text": "seguridad",
+          "startFrame": 860,
+          "endFrame": 870
+        },
+        {
+          "text": "máxima,",
+          "startFrame": 870,
+          "endFrame": 890
+        }
+      ]
+    },
+    {
+      "startFrame": 890,
+      "endFrame": 920,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "reina",
+          "startFrame": 890,
+          "endFrame": 919
+        }
+      ]
+    },
+    {
+      "startFrame": 920,
+      "endFrame": 950,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Entonces,",
+          "startFrame": 920,
+          "endFrame": 937
+        },
+        {
+          "text": "¿para",
+          "startFrame": 941,
+          "endFrame": 945
+        },
+        {
+          "text": "qué",
+          "startFrame": 945,
+          "endFrame": 950
+        }
+      ]
+    },
+    {
+      "startFrame": 950,
+      "endFrame": 973,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "vas",
+          "startFrame": 950,
+          "endFrame": 954
+        },
+        {
+          "text": "a",
+          "startFrame": 954,
+          "endFrame": 958
+        },
+        {
+          "text": "malgastar",
+          "startFrame": 958,
+          "endFrame": 973
+        }
+      ]
+    },
+    {
+      "startFrame": 973,
+      "endFrame": 991,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tu",
+          "startFrame": 973,
+          "endFrame": 976
+        },
+        {
+          "text": "ficha",
+          "startFrame": 976,
+          "endFrame": 987
+        },
+        {
+          "text": "más",
+          "startFrame": 987,
+          "endFrame": 991
+        }
+      ]
+    },
+    {
+      "startFrame": 991,
+      "endFrame": 1024,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "importante",
+          "startFrame": 991,
+          "endFrame": 1003
+        },
+        {
+          "text": "siendo",
+          "startFrame": 1003,
+          "endFrame": 1018
+        },
+        {
+          "text": "el",
+          "startFrame": 1018,
+          "endFrame": 1024
+        }
+      ]
+    },
+    {
+      "startFrame": 1024,
+      "endFrame": 1053,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "modelo",
+          "startFrame": 1024,
+          "endFrame": 1033
+        },
+        {
+          "text": "GPT",
+          "startFrame": 1033,
+          "endFrame": 1046
+        },
+        {
+          "text": "5",
+          "startFrame": 1046,
+          "endFrame": 1053
+        }
+      ]
+    },
+    {
+      "startFrame": 1053,
+      "endFrame": 1079,
+      "emphasis": false,
+      "words": [
+        {
+          "text": ".5,",
+          "startFrame": 1053,
+          "endFrame": 1076
+        }
+      ]
+    },
+    {
+      "startFrame": 1079,
+      "endFrame": 1097,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "Opus",
+          "startFrame": 1079,
+          "endFrame": 1092
+        }
+      ]
+    },
+    {
+      "startFrame": 1097,
+      "endFrame": 1129,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "4",
+          "startFrame": 1092,
+          "endFrame": 1099
+        },
+        {
+          "text": ".8?",
+          "startFrame": 1099,
+          "endFrame": 1124
+        }
+      ]
+    },
+    {
+      "startFrame": 1129,
+      "endFrame": 1151,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Cuando",
+          "startFrame": 1129,
+          "endFrame": 1145
+        },
+        {
+          "text": "es",
+          "startFrame": 1145,
+          "endFrame": 1148
+        },
+        {
+          "text": "una",
+          "startFrame": 1148,
+          "endFrame": 1151
+        }
+      ]
+    },
+    {
+      "startFrame": 1151,
+      "endFrame": 1169,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tarea",
+          "startFrame": 1151,
+          "endFrame": 1160
+        },
+        {
+          "text": "que",
+          "startFrame": 1160,
+          "endFrame": 1166
+        },
+        {
+          "text": "lo",
+          "startFrame": 1166,
+          "endFrame": 1169
+        }
+      ]
+    },
+    {
+      "startFrame": 1169,
+      "endFrame": 1192,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "puedes",
+          "startFrame": 1169,
+          "endFrame": 1175
+        },
+        {
+          "text": "hacer",
+          "startFrame": 1175,
+          "endFrame": 1183
+        },
+        {
+          "text": "con",
+          "startFrame": 1183,
+          "endFrame": 1192
+        }
+      ]
+    },
+    {
+      "startFrame": 1192,
+      "endFrame": 1237,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Haiku",
+          "startFrame": 1192,
+          "endFrame": 1207
+        },
+        {
+          "text": "4",
+          "startFrame": 1207,
+          "endFrame": 1216
+        },
+        {
+          "text": ".5,",
+          "startFrame": 1216,
+          "endFrame": 1237
+        }
+      ]
+    },
+    {
+      "startFrame": 1237,
+      "endFrame": 1266,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "con",
+          "startFrame": 1237,
+          "endFrame": 1246
+        },
+        {
+          "text": "GPT",
+          "startFrame": 1246,
+          "endFrame": 1259
+        },
+        {
+          "text": "4",
+          "startFrame": 1259,
+          "endFrame": 1266
+        }
+      ]
+    },
+    {
+      "startFrame": 1266,
+      "endFrame": 1312,
+      "emphasis": false,
+      "words": [
+        {
+          "text": ".0,",
+          "startFrame": 1266,
+          "endFrame": 1288
+        },
+        {
+          "text": "vas",
+          "startFrame": 1303,
+          "endFrame": 1312
+        }
+      ]
+    },
+    {
+      "startFrame": 1312,
+      "endFrame": 1337,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "a",
+          "startFrame": 1312,
+          "endFrame": 1317
+        },
+        {
+          "text": "maximizar",
+          "startFrame": 1317,
+          "endFrame": 1331
+        },
+        {
+          "text": "tus",
+          "startFrame": 1331,
+          "endFrame": 1337
+        }
+      ]
+    },
+    {
+      "startFrame": 1337,
+      "endFrame": 1363,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tokens,",
+          "startFrame": 1337,
+          "endFrame": 1347
+        },
+        {
+          "text": "vas",
+          "startFrame": 1353,
+          "endFrame": 1358
+        },
+        {
+          "text": "a",
+          "startFrame": 1358,
+          "endFrame": 1363
+        }
+      ]
+    },
+    {
+      "startFrame": 1363,
+      "endFrame": 1384,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "lograr",
+          "startFrame": 1363,
+          "endFrame": 1372
+        },
+        {
+          "text": "el",
+          "startFrame": 1372,
+          "endFrame": 1376
+        },
+        {
+          "text": "mismo",
+          "startFrame": 1376,
+          "endFrame": 1384
+        }
+      ]
+    },
+    {
+      "startFrame": 1384,
+      "endFrame": 1427,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "resultado",
+          "startFrame": 1384,
+          "endFrame": 1398
+        },
+        {
+          "text": "y",
+          "startFrame": 1398,
+          "endFrame": 1417
+        },
+        {
+          "text": "no",
+          "startFrame": 1417,
+          "endFrame": 1427
+        }
+      ]
+    },
+    {
+      "startFrame": 1427,
+      "endFrame": 1450,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "hizo",
+          "startFrame": 1427,
+          "endFrame": 1435
+        },
+        {
+          "text": "falta",
+          "startFrame": 1435,
+          "endFrame": 1444
+        },
+        {
+          "text": "que",
+          "startFrame": 1444,
+          "endFrame": 1450
+        }
+      ]
+    },
+    {
+      "startFrame": 1450,
+      "endFrame": 1465,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "sacaras",
+          "startFrame": 1450,
+          "endFrame": 1460
+        },
+        {
+          "text": "a",
+          "startFrame": 1460,
+          "endFrame": 1465
+        },
+        {
+          "text": "la",
+          "startFrame": 1465,
+          "endFrame": 1466
+        }
+      ]
+    },
+    {
+      "startFrame": 1465,
+      "endFrame": 1492,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "pieza",
+          "startFrame": 1465,
+          "endFrame": 1475
+        },
+        {
+          "text": "más",
+          "startFrame": 1475,
+          "endFrame": 1479
+        },
+        {
+          "text": "importante",
+          "startFrame": 1479,
+          "endFrame": 1492
+        }
+      ]
+    },
+    {
+      "startFrame": 1492,
+      "endFrame": 1513,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 1492,
+          "endFrame": 1497
+        },
+        {
+          "text": "tu",
+          "startFrame": 1497,
+          "endFrame": 1499
+        },
+        {
+          "text": "tablero",
+          "startFrame": 1499,
+          "endFrame": 1513
+        }
+      ]
+    },
+    {
+      "startFrame": 1513,
+      "endFrame": 1528,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "para",
+          "startFrame": 1513,
+          "endFrame": 1517
+        },
+        {
+          "text": "hacer",
+          "startFrame": 1517,
+          "endFrame": 1523
+        },
+        {
+          "text": "una",
+          "startFrame": 1523,
+          "endFrame": 1528
+        }
+      ]
+    },
+    {
+      "startFrame": 1528,
+      "endFrame": 1553,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tarea",
+          "startFrame": 1528,
+          "endFrame": 1537
+        },
+        {
+          "text": "que",
+          "startFrame": 1537,
+          "endFrame": 1544
+        },
+        {
+          "text": "realmente",
+          "startFrame": 1544,
+          "endFrame": 1553
+        }
+      ]
+    },
+    {
+      "startFrame": 1553,
+      "endFrame": 1593,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "era",
+          "startFrame": 1553,
+          "endFrame": 1564
+        },
+        {
+          "text": "extremadamente",
+          "startFrame": 1564,
+          "endFrame": 1577
+        },
+        {
+          "text": "simple",
+          "startFrame": 1577,
+          "endFrame": 1593
+        }
+      ]
+    },
+    {
+      "startFrame": 1593,
+      "endFrame": 1597,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 1593,
+          "endFrame": 1597
+        },
+        {
+          "text": "hacer.",
+          "startFrame": 1597,
+          "endFrame": 1601
+        }
+      ]
+    },
+    {
+      "startFrame": 1597,
+      "endFrame": 1655,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "¿La",
+          "startFrame": 1597,
+          "endFrame": 1614
+        },
+        {
+          "text": "estrategia",
+          "startFrame": 1614,
+          "endFrame": 1627
+        },
+        {
+          "text": "correcta?",
+          "startFrame": 1627,
+          "endFrame": 1645
+        }
+      ]
+    },
+    {
+      "startFrame": 1655,
+      "endFrame": 1684,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Utiliza",
+          "startFrame": 1655,
+          "endFrame": 1672
+        },
+        {
+          "text": "tu",
+          "startFrame": 1672,
+          "endFrame": 1676
+        },
+        {
+          "text": "mejor",
+          "startFrame": 1676,
+          "endFrame": 1684
+        }
+      ]
+    },
+    {
+      "startFrame": 1684,
+      "endFrame": 1688,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "ruta.",
+          "startFrame": 1684,
+          "endFrame": 1687
+        }
+      ]
+    },
+    {
+      "startFrame": 1688,
+      "endFrame": 1691,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Utiliza",
+          "startFrame": 1688,
+          "endFrame": 1691
+        },
+        {
+          "text": "tu",
+          "startFrame": 1691,
+          "endFrame": 1692
+        },
+        {
+          "text": "mejor",
+          "startFrame": 1691,
+          "endFrame": 1692
+        }
+      ]
+    },
+    {
+      "startFrame": 1691,
+      "endFrame": 1734,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "pieza",
+          "startFrame": 1691,
+          "endFrame": 1700
+        },
+        {
+          "text": "para",
+          "startFrame": 1700,
+          "endFrame": 1717
+        },
+        {
+          "text": "crear,",
+          "startFrame": 1717,
+          "endFrame": 1729
+        }
+      ]
+    },
+    {
+      "startFrame": 1734,
+      "endFrame": 1780,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "para",
+          "startFrame": 1734,
+          "endFrame": 1742
+        },
+        {
+          "text": "planear",
+          "startFrame": 1742,
+          "endFrame": 1760
+        },
+        {
+          "text": "y",
+          "startFrame": 1760,
+          "endFrame": 1780
+        }
+      ]
+    },
+    {
+      "startFrame": 1780,
+      "endFrame": 1816,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "utiliza",
+          "startFrame": 1780,
+          "endFrame": 1797
+        },
+        {
+          "text": "tus",
+          "startFrame": 1797,
+          "endFrame": 1802
+        },
+        {
+          "text": "caballos",
+          "startFrame": 1802,
+          "endFrame": 1816
+        }
+      ]
+    },
+    {
+      "startFrame": 1816,
+      "endFrame": 1832,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 1816,
+          "endFrame": 1819
+        },
+        {
+          "text": "guerra,",
+          "startFrame": 1819,
+          "endFrame": 1825
+        }
+      ]
+    },
+    {
+      "startFrame": 1832,
+      "endFrame": 1865,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tus",
+          "startFrame": 1832,
+          "endFrame": 1845
+        },
+        {
+          "text": "peones,",
+          "startFrame": 1845,
+          "endFrame": 1860
+        }
+      ]
+    },
+    {
+      "startFrame": 1865,
+      "endFrame": 1894,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tus",
+          "startFrame": 1865,
+          "endFrame": 1871
+        },
+        {
+          "text": "alfiles",
+          "startFrame": 1871,
+          "endFrame": 1885
+        },
+        {
+          "text": "para",
+          "startFrame": 1885,
+          "endFrame": 1894
+        }
+      ]
+    },
+    {
+      "startFrame": 1894,
+      "endFrame": 1914,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "ejecutar.",
+          "startFrame": 1894,
+          "endFrame": 1912
+        }
+      ]
+    },
+    {
+      "startFrame": 1914,
+      "endFrame": 1955,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Sonnet,",
+          "startFrame": 1914,
+          "endFrame": 1930
+        },
+        {
+          "text": "un",
+          "startFrame": 1931,
+          "endFrame": 1941
+        },
+        {
+          "text": "GPT",
+          "startFrame": 1941,
+          "endFrame": 1955
+        }
+      ]
+    },
+    {
+      "startFrame": 1955,
+      "endFrame": 1976,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "que",
+          "startFrame": 1955,
+          "endFrame": 1963
+        },
+        {
+          "text": "sea",
+          "startFrame": 1963,
+          "endFrame": 1970
+        },
+        {
+          "text": "un",
+          "startFrame": 1970,
+          "endFrame": 1976
+        }
+      ]
+    },
+    {
+      "startFrame": 1976,
+      "endFrame": 2008,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "poco",
+          "startFrame": 1976,
+          "endFrame": 1981
+        },
+        {
+          "text": "más",
+          "startFrame": 1981,
+          "endFrame": 1988
+        },
+        {
+          "text": "económico",
+          "startFrame": 1988,
+          "endFrame": 2008
+        }
+      ]
+    },
+    {
+      "startFrame": 2008,
+      "endFrame": 2036,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "o",
+          "startFrame": 2008,
+          "endFrame": 2024
+        },
+        {
+          "text": "un",
+          "startFrame": 2024,
+          "endFrame": 2030
+        },
+        {
+          "text": "modelo",
+          "startFrame": 2030,
+          "endFrame": 2036
+        }
+      ]
+    },
+    {
+      "startFrame": 2036,
+      "endFrame": 2065,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "que",
+          "startFrame": 2036,
+          "endFrame": 2047
+        },
+        {
+          "text": "realmente",
+          "startFrame": 2047,
+          "endFrame": 2054
+        },
+        {
+          "text": "no",
+          "startFrame": 2054,
+          "endFrame": 2065
+        }
+      ]
+    },
+    {
+      "startFrame": 2065,
+      "endFrame": 2099,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "te",
+          "startFrame": 2065,
+          "endFrame": 2068
+        },
+        {
+          "text": "consuma",
+          "startFrame": 2068,
+          "endFrame": 2086
+        },
+        {
+          "text": "tantos",
+          "startFrame": 2086,
+          "endFrame": 2099
+        }
+      ]
+    },
+    {
+      "startFrame": 2099,
+      "endFrame": 2120,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "tokens",
+          "startFrame": 2099,
+          "endFrame": 2109
+        },
+        {
+          "text": "o",
+          "startFrame": 2109,
+          "endFrame": 2117
+        },
+        {
+          "text": "no",
+          "startFrame": 2117,
+          "endFrame": 2120
+        }
+      ]
+    },
+    {
+      "startFrame": 2120,
+      "endFrame": 2137,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "te",
+          "startFrame": 2120,
+          "endFrame": 2124
+        },
+        {
+          "text": "sea",
+          "startFrame": 2124,
+          "endFrame": 2131
+        },
+        {
+          "text": "tan",
+          "startFrame": 2131,
+          "endFrame": 2137
+        }
+      ]
+    },
+    {
+      "startFrame": 2137,
+      "endFrame": 2162,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "costoso",
+          "startFrame": 2137,
+          "endFrame": 2152
+        },
+        {
+          "text": "si",
+          "startFrame": 2152,
+          "endFrame": 2157
+        },
+        {
+          "text": "estás",
+          "startFrame": 2157,
+          "endFrame": 2162
+        }
+      ]
+    },
+    {
+      "startFrame": 2162,
+      "endFrame": 2186,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "utilizando",
+          "startFrame": 2162,
+          "endFrame": 2179
+        },
+        {
+          "text": "el",
+          "startFrame": 2179,
+          "endFrame": 2181
+        },
+        {
+          "text": "API",
+          "startFrame": 2181,
+          "endFrame": 2186
+        }
+      ]
+    },
+    {
+      "startFrame": 2186,
+      "endFrame": 2221,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "y",
+          "startFrame": 2186,
+          "endFrame": 2206
+        },
+        {
+          "text": "estás",
+          "startFrame": 2206,
+          "endFrame": 2211
+        },
+        {
+          "text": "logrando",
+          "startFrame": 2211,
+          "endFrame": 2221
+        }
+      ]
+    },
+    {
+      "startFrame": 2221,
+      "endFrame": 2245,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "el",
+          "startFrame": 2221,
+          "endFrame": 2225
+        },
+        {
+          "text": "resultado",
+          "startFrame": 2225,
+          "endFrame": 2236
+        },
+        {
+          "text": "que",
+          "startFrame": 2236,
+          "endFrame": 2245
+        }
+      ]
+    },
+    {
+      "startFrame": 2245,
+      "endFrame": 2255,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "quieres.",
+          "startFrame": 2245,
+          "endFrame": 2253
+        }
+      ]
+    },
+    {
+      "startFrame": 2255,
+      "endFrame": 2290,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Planea",
+          "startFrame": 2255,
+          "endFrame": 2271
+        },
+        {
+          "text": "con",
+          "startFrame": 2271,
+          "endFrame": 2285
+        },
+        {
+          "text": "lo",
+          "startFrame": 2285,
+          "endFrame": 2290
+        }
+      ]
+    },
+    {
+      "startFrame": 2290,
+      "endFrame": 2316,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "más",
+          "startFrame": 2290,
+          "endFrame": 2294
+        },
+        {
+          "text": "poderoso,",
+          "startFrame": 2294,
+          "endFrame": 2312
+        }
+      ]
+    },
+    {
+      "startFrame": 2316,
+      "endFrame": 2359,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "ejecuta",
+          "startFrame": 2316,
+          "endFrame": 2344
+        },
+        {
+          "text": "con",
+          "startFrame": 2344,
+          "endFrame": 2354
+        },
+        {
+          "text": "tus",
+          "startFrame": 2354,
+          "endFrame": 2359
+        }
+      ]
+    },
+    {
+      "startFrame": 2359,
+      "endFrame": 2377,
+      "emphasis": true,
+      "words": [
+        {
+          "text": "caballos",
+          "startFrame": 2359,
+          "endFrame": 2369
+        }
+      ]
+    },
+    {
+      "startFrame": 2377,
+      "endFrame": 2381,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "de",
+          "startFrame": 2369,
+          "endFrame": 2372
+        },
+        {
+          "text": "guerra.",
+          "startFrame": 2372,
+          "endFrame": 2377
+        }
+      ]
+    },
+    {
+      "startFrame": 2381,
+      "endFrame": 2398,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "Si",
+          "startFrame": 2381,
+          "endFrame": 2387
+        },
+        {
+          "text": "quieres",
+          "startFrame": 2387,
+          "endFrame": 2392
+        },
+        {
+          "text": "aprender",
+          "startFrame": 2392,
+          "endFrame": 2398
+        }
+      ]
+    },
+    {
+      "startFrame": 2398,
+      "endFrame": 2443,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "más",
+          "startFrame": 2398,
+          "endFrame": 2410
+        },
+        {
+          "text": "sobre",
+          "startFrame": 2410,
+          "endFrame": 2430
+        },
+        {
+          "text": "inteligencia",
+          "startFrame": 2430,
+          "endFrame": 2443
+        }
+      ]
+    },
+    {
+      "startFrame": 2443,
+      "endFrame": 2501,
+      "emphasis": false,
+      "words": [
+        {
+          "text": "artificial,",
+          "startFrame": 2443,
+          "endFrame": 2449
+        },
+        {
+          "text": "sígueme.",
+          "startFrame": 2461,
+          "endFrame": 2487
+        }
+      ]
+    }
+  ],
+  "broll": [
+    {
+      "startFrame": 126,
+      "durationInFrames": 100,
+      "src": "broll/0-hook-ajedrez.mp4"
+    },
+    {
+      "startFrame": 533,
+      "durationInFrames": 90,
+      "src": "broll/1-peon-tarea-simple.mp4"
+    },
+    {
+      "startFrame": 725,
+      "durationInFrames": 150,
+      "src": "broll/3-reina-api.mp4"
+    },
+    {
+      "startFrame": 1104,
+      "durationInFrames": 120,
+      "src": "broll/4-pieza-correcta.mp4"
+    },
+    {
+      "startFrame": 1756,
+      "durationInFrames": 130,
+      "src": "broll/5-caballos-ejecutar.mp4"
+    }
+  ]
+}

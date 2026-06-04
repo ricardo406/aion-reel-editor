@@ -1,0 +1,56 @@
+{
+  "fps": 30,
+  "style_lock": "Photorealistic cinematic vertical 9:16, naturalistic color with deep filmic blacks and fine 35mm grain, Roger Deakins / Greig Fraser realism. Theme: choosing the right AI model is like chess — do not use your queen for a pawn's job. Real crystal-glass chess pieces on dark walnut wood, real human/desk moments, real screens with soft-focus data. Vary the rhythm tactile-chess <-> human/screen <-> system <-> tactile-chess; grounded and premium, room for viral energy. NO holograms, NO glowing 3D UI, NO neon, NO RGB, NO sci-fi cliche, NO CGI.",
+  "beats": [
+    {
+      "id": "0-hook-ajedrez",
+      "startFrame": 126,
+      "durationInFrames": 100,
+      "phrase": "Utilizar inteligencia artificial es exactamente igual a jugar ajedrez",
+      "type": "tactile-chess",
+      "_reuse": "Reutiliza el clip ya generado (set de ajedrez de cristal, mano moviendo pieza). Cierra justo en el gigante AJEDREZ.",
+      "image_prompt": "(reuse — no regenerar)",
+      "motion_prompt": "(reuse — no regenerar)"
+    },
+    {
+      "id": "1-peon-tarea-simple",
+      "startFrame": 533,
+      "durationInFrames": 90,
+      "phrase": "Enviar un email, darte un texto: peon",
+      "type": "human-screen",
+      "_nota": "Tarea trivial = peon. Mano mandando un texto/email rapido en el telefono.",
+      "image_prompt": "Photorealistic cinematic vertical 9:16, a tight over-the-hand shot of a person casually typing a short message on a smartphone held in one hand at a desk, a mundane everyday micro-task, the phone screen a soft-focus generic messaging view with no readable text, a single small wooden chess pawn sitting on the desk beside the hand in soft focus, warm relaxed light, deep filmic blacks. Shot on 50mm lens, eye level close on the hand and phone, the pawn as a quiet visual rhyme. Lighting: soft warm key from camera-left, cool screen fill on the fingers, gentle shadows. Color palette: deep black, warm amber, cool screen accent. Naturalistic, slightly desaturated, filmic. Style reference: Greig Fraser grounded realism, effortless and casual. Shallow depth of field f/2, fine 35mm grain, 9:16 vertical crop, photorealistic. Tall vertical composition, portrait framing. Negative: readable text, real app UI, brand logos, watermark, holograms, glowing UI, neon, extra fingers, malformed hands, plastic skin, cartoon, flat lighting, busy clutter.",
+      "motion_prompt": "A hand casually typing a quick short message on a phone, a small pawn resting beside it. Camera: slow push-in 5 percent over 5 seconds, relaxed, no shake. Subject: the thumb taps out a couple of quick taps and a light flick to send, effortless and unhurried, the pawn still beside the hand. Environment: soft warm light steady, faint screen glow flickering as content changes out of focus. Atmosphere: a trivial everyday task, no effort needed. 5 seconds, photorealistic documentary realism, no CGI. Negative: readable text forming, fast frantic typing, morphing hand, extra fingers, jitter, sudden zoom, glowing UI popping in, distortion."
+    },
+    {
+      "id": "3-reina-api",
+      "startFrame": 725,
+      "durationInFrames": 150,
+      "phrase": "Crear un sistema operativo, backend, seguridad maxima: reina",
+      "type": "system",
+      "_reuse": "Reutiliza el clip ya generado (data center real). Computo potente / backend+seguridad = el modelo mas poderoso = reina.",
+      "image_prompt": "(reuse — no regenerar)",
+      "motion_prompt": "(reuse — no regenerar)"
+    },
+    {
+      "id": "4-pieza-correcta",
+      "startFrame": 1104,
+      "durationInFrames": 120,
+      "phrase": "para que malgastar tu ficha mas importante en algo simple",
+      "type": "tactile-chess",
+      "_nota": "Tesis visual: la mano IGNORA la reina (alta, al frente) y elige mover un peon humilde. Usa la pieza correcta para la tarea.",
+      "image_prompt": "Photorealistic cinematic vertical 9:16, a dramatic low macro of a real chess mid-game on dark walnut wood, a tall crystal-glass queen standing prominent and sharply lit in the foreground, and a player's hand deliberately reaching PAST the queen to pick up a small humble pawn instead, the choice clear and intentional, warm tungsten key raking across the board, deep filmic blacks, light refracting through the glass queen. Shot on 50mm macro lens, low eye-level angle making the queen tower while the hand selects the modest pawn, shallow framing. Lighting: hard warm tungsten key from camera-left catching the glass queen, deep falloff into black, soft amber bounce. Color palette: deep black, warm tungsten amber, cool glass highlight, muted wood brown. Naturalistic, slightly desaturated, deep filmic blacks. Subtle haze and fine dust in the beam. Style reference: Roger Deakins realism, deliberate and strategic. Shallow depth of field f/2.8, fine 35mm grain, 9:16 vertical crop, photorealistic. Tall vertical composition, portrait framing. Negative: plastic pieces, toy look, cartoon, watermark, text, logo, extra fingers, malformed hands, holograms, glowing UI, neon, RGB, flat even lighting, centered amateur framing.",
+      "motion_prompt": "A hand reaches past a tall glass queen to pick up a small pawn instead. Camera: very slow push-in 5 percent over 5 seconds, locked, no shake. Subject: the hand hovers near the prominent queen, then deliberately moves past it and lifts the humble pawn, an intentional choice, light caustics shifting across the wood. Environment: warm key light faintly flickering, dust drifting in the beam, the queen sharp and still. Atmosphere: use the right piece, do not waste the most powerful one. 5 seconds, photorealistic documentary realism, no CGI. Negative: knocking over the queen, morphing pieces, extra fingers, malformed hands, jitter, sudden zoom, pieces vanishing, glowing UI, distortion, fast motion."
+    },
+    {
+      "id": "5-caballos-ejecutar",
+      "startFrame": 1756,
+      "durationInFrames": 130,
+      "phrase": "utiliza tus caballos de guerra, tus peones, tus alfiles para ejecutar",
+      "type": "tactile-chess",
+      "_nota": "Ejecucion: caballos y peones avanzando en formacion por el tablero. Energia, accion.",
+      "image_prompt": "Photorealistic cinematic vertical 9:16, a dynamic low macro across a real chessboard on dark walnut wood showing a cluster of crystal-glass knights and pawns advanced into attacking positions mid-game, arranged like a working force pushing forward, a player's hand just finishing a confident move on a knight, strong directional light raking across the board, deep filmic blacks, light refracting through the glass pieces casting caustics. Shot on 35mm lens, low eye-level angle looking down the line of advancing pieces, leading lines, shallow framing. Lighting: hard warm tungsten key from the side, strong contrast, deep falloff. Color palette: deep black, warm tungsten amber, cool glass highlight, muted wood brown. Naturalistic, slightly desaturated, cinematic. Style reference: Roger Deakins realism, momentum and execution. Shallow depth of field f/2, fine 35mm grain, 9:16 vertical crop, photorealistic. Tall vertical composition, portrait framing. Negative: plastic pieces, toy look, cartoon, watermark, text, logo, extra fingers, malformed hands, holograms, glowing UI, neon, RGB, flat even lighting, centered amateur framing.",
+      "motion_prompt": "Crystal-glass knights and pawns advanced in attacking positions, a hand finishing a confident move on a knight. Camera: slow push-in 6 percent down the line of pieces over 5 seconds, controlled, no shake. Subject: the hand sets a knight down decisively and releases, the advancing force reading as in-motion and purposeful. Environment: warm raking light steady, faint haze, caustics shifting across the wood. Atmosphere: execution, your working pieces getting the job done. 5 seconds, photorealistic documentary realism, no CGI. Negative: pieces toppling, morphing, extra fingers, malformed hands, jitter, sudden zoom, pieces vanishing, glowing UI, distortion."
+    }
+  ]
+}
